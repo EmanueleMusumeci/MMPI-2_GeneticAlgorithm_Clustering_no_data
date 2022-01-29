@@ -1,0 +1,72 @@
+
+
+------------------------------------
+CLUSTERS: 2
+------------------------------------
+
+Fitness function: CentroidDistance
+------------------------------------
+Model name	Value	Iteration
+------------------------------------
+KMEANS_2_clusters_Couples_Single_scales_CentroidDistance		93.687260924358		14
+SPECTRAL_2_clusters_Couples_Scale_groups_CentroidDistance		No improvement		-
+SPECTRAL_2_clusters_Single_individual_Scale_groups_CentroidDistance		No improvement		-
+SPECTRAL_2_clusters_Couples_Single_scales_CentroidDistance		No improvement		-
+SPECTRAL_2_clusters_Single_individual_Single_scales_CentroidDistance		No improvement		-
+GMM_2_clusters_Single_individual_Scale_groups_CentroidDistance		No improvement		-
+KMEANS_2_clusters_Single_individual_Single_scales_CentroidDistance		No improvement		-
+KMEANS_2_clusters_Couples_Scale_groups_CentroidDistance		No improvement		-
+GMM_2_clusters_Single_individual_Single_scales_CentroidDistance		No improvement		-
+KMEANS_2_clusters_Single_individual_Scale_groups_CentroidDistance		No improvement		-
+
+Fitness function: MinimumPointDistance
+------------------------------------
+Model name	Value	Iteration
+------------------------------------
+KMEANS_2_clusters_Single_individual_Single_scales_MinimumPointDistance		57.48912940721924		10
+GMM_2_clusters_Single_individual_Single_scales_MinimumPointDistance		54.415071441651165		11
+SPECTRAL_2_clusters_Couples_Single_scales_MinimumPointDistance		54.35071296680477		8
+KMEANS_2_clusters_Couples_Single_scales_MinimumPointDistance		13.416407864998739		13
+SPECTRAL_2_clusters_Couples_Single_scales_MinimumPointDistance copy		No improvement		-
+KMEANS_2_clusters_Single_individual_Scale_groups_MinimumPointDistance		No improvement		-
+SPECTRAL_2_clusters_Single_individual_Single_scales_MinimumPointDistance		No improvement		-
+SPECTRAL_2_clusters_Couples_Scale_groups_MinimumPointDistance		No improvement		-
+KMEANS_2_clusters_Couples_Scale_groups_MinimumPointDistance		No improvement		-
+GMM_2_clusters_Single_individual_Scale_groups_MinimumPointDistance		No improvement		-
+SPECTRAL_2_clusters_Single_individual_Scale_groups_MinimumPointDistance		No improvement		-
+
+
+------------------------------------
+CLUSTERS: 4
+------------------------------------
+
+Fitness function: CentroidDistance
+------------------------------------
+Model name	Value	Iteration
+------------------------------------
+KMEANS_4_clusters_Couples_Single_scales_CentroidDistance		173.8464083498567		1
+GMM_4_clusters_Single_individual_Scale_groups_CentroidDistance		100.87616170334793		14
+GMM_4_clusters_Single_individual_Single_scales_CentroidDistance		94.39809320108114		13
+KMEANS_4_clusters_Couples_Scale_groups_CentroidDistance		56.909919120459286		1
+KMEANS_4_clusters_Single_individual_Scale_groups_CentroidDistance		41.0181488630972		1
+KMEANS_4_clusters_Single_individual_Single_scales_CentroidDistance		40.004911054570954		12
+SPECTRAL_4_clusters_Couples_Scale_groups_CentroidDistance		No improvement		-
+SPECTRAL_4_clusters_Couples_Single_scales_CentroidDistance		No improvement		-
+SPECTRAL_4_clusters_Single_individual_Single_scales_CentroidDistance		No improvement		-
+SPECTRAL_4_clusters_Single_individual_Scale_groups_CentroidDistance		No improvement		-
+
+Fitness function: MinimumPointDistance
+------------------------------------
+Model name	Value	Iteration
+------------------------------------
+GMM_4_clusters_Single_individual_Scale_groups_MinimumPointDistance		56.55970296951709		9
+SPECTRAL_4_clusters_Single_individual_Scale_groups_MinimumPointDistance		47.67598976424087		1
+SPECTRAL_4_clusters_Couples_Scale_groups_MinimumPointDistance		47.67598976424087		1
+GMM_4_clusters_Single_individual_Single_scales_MinimumPointDistance		47.41307836451879		10
+SPECTRAL_4_clusters_Couples_Single_scales_MinimumPointDistance		44.609416046390926		9
+KMEANS_4_clusters_Single_individual_Single_scales_MinimumPointDistance		44.41846462902562		9
+SPECTRAL_4_clusters_Couples_Single_scales_MinimumPointDistance copy		42.883563284783136		5
+SPECTRAL_4_clusters_Single_individual_Single_scales_MinimumPointDistance		42.07136793592526		7
+KMEANS_4_clusters_Couples_Single_scales_MinimumPointDistance		13.490737563232042		14
+KMEANS_4_clusters_Single_individual_Scale_groups_MinimumPointDistance		No improvement		-
+KMEANS_4_clusters_Couples_Scale_groups_MinimumPointDistance		No improvement		-
